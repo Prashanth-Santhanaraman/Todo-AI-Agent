@@ -1,0 +1,2 @@
+[ ] learn about AI Agents
+[✓] upload project to GitHub
